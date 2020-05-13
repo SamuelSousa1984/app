@@ -1,0 +1,4 @@
+#Tue May 12 18:44:30 BRT 2020
+base.0=/home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

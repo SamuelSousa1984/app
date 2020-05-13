@@ -1,0 +1,252 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [:@react-native-community_async-storage] /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-linear-gradient] /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-community_async-storage] /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_masked-view] /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-reanimated] /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] /home/r00t/.gradle/caches/transforms-2/files-2.1/5e7f1e2f6a6d61bc6db79e8e0941b5d9/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /home/r00t/.gradle/caches/transforms-2/files-2.1/f983b71dad8b73a6d1de8ba2c5dd1e80/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/d7e6595b5703fbfaa14eaf776720b104/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/e64b902814a3a57fae1b7acfa6ba8862/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/a1610ed67393005449b3c82af7362a4d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/1f6f76b7c7ac2a88b332161617483caf/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/bf07da988b881e0e25fdc26d39325188/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/9ec01078915f678597c3da1424d79b12/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/77695467085819a9d2b138388498bb8d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/6b0f4440762ab912ba62b47c0f87de77/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/7be32f6c1b1d8774209f5a0f92e54554/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/49c40f6fb62787e7edf78d3c635ebb9a/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.transition:transition:1.2.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/953ef6fdc29aac04adfa6c145064de8b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/397227217706b77c49a153a31c1b747f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /home/r00t/.gradle/caches/transforms-2/files-2.1/e8abb4733ac8eaa4510b6a15ee7f8083/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/ed180aeb0cd80819533ac7ec68e315a0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/df4fd5167d6906008794ebf7280f8a4a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/6a3cb39f1eac8bb44dac8accc0118699/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/dd337597908e2b60a1046cc82702f0b6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/4c9fde4da009e2e614d4d720b59f72e7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/9a3633cdc2243cce452a9ae5c50484bf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/7a6693049a4af91956425f666f4340e0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/8294af48020ab0c19bdaf4e9873a93e8/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/af72c46ef135ae44c40cdcb57cc78290/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/513d64d15d4f47ef162504a33b8dd5f7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/d6b3e8396c029e4a309cd4db59be6342/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/b2850e4ef555142e5852905ef3905f3c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/a4441e225919045ab61f51880ed8bfeb/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/fbb99332cb61a81dc5f2053b99e85dbb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/7f52ffc6a90b38efc52f549721db300a/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/b691b51db849a71c3e7285e0a184cb53/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/0ad04eac5bf4be2b64d1f18d53bcd288/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/a83d0cb30628e5716302bb9acf07316c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/eeb565f70a450fbf8ecec34f532cbfcc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/7b3d1c5428e1e5fca386ac9afbf3eb4c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/ac10249a5481244acda30ed8e30853bb/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/4964ec913e93aeb5f19cb22a21608a39/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/f96e44e1e362736fe6f5db7f731ab40c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/ae0ea9b95d62e9071c36c1788d5ec6b8/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml:2:3-28
+		INJECTED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml:2:3-28
+		INJECTED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from [com.facebook.react:react-native:0.61.5] /home/r00t/.gradle/caches/transforms-2/files-2.1/5e7f1e2f6a6d61bc6db79e8e0941b5d9/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /home/r00t/.gradle/caches/transforms-2/files-2.1/5e7f1e2f6a6d61bc6db79e8e0941b5d9/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/d7e6595b5703fbfaa14eaf776720b104/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/d7e6595b5703fbfaa14eaf776720b104/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/49c40f6fb62787e7edf78d3c635ebb9a/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/49c40f6fb62787e7edf78d3c635ebb9a/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/a4441e225919045ab61f51880ed8bfeb/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/a4441e225919045ab61f51880ed8bfeb/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/7f52ffc6a90b38efc52f549721db300a/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/7f52ffc6a90b38efc52f549721db300a/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/a4441e225919045ab61f51880ed8bfeb/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/debug/AndroidManifest.xml:7:75-114
+	tools:targetApi
+		ADDED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml:9:7-36
+		ADDED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml:9:7-36
+	android:allowBackup
+		ADDED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml:10:7-34
+		ADDED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml:10:7-34
+	android:theme
+		ADDED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml:11:7-38
+		ADDED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml:11:7-38
+	android:usesCleartextTraffic
+		ADDED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml:12:7-42
+	android:name
+		ADDED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.eufitbrasil.MainActivity
+ADDED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml:14:7-23:18
+	android:label
+		ADDED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml:16:9-41
+	android:windowSoftInputMode
+		ADDED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml:17:9-79
+	android:name
+		ADDED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml:15:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml
+MERGED from [:@react-native-community_async-storage] /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_async-storage] /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/r00t/.gradle/caches/transforms-2/files-2.1/5e7f1e2f6a6d61bc6db79e8e0941b5d9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /home/r00t/.gradle/caches/transforms-2/files-2.1/5e7f1e2f6a6d61bc6db79e8e0941b5d9/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/r00t/.gradle/caches/transforms-2/files-2.1/f983b71dad8b73a6d1de8ba2c5dd1e80/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/r00t/.gradle/caches/transforms-2/files-2.1/f983b71dad8b73a6d1de8ba2c5dd1e80/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/d7e6595b5703fbfaa14eaf776720b104/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/d7e6595b5703fbfaa14eaf776720b104/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/e64b902814a3a57fae1b7acfa6ba8862/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/e64b902814a3a57fae1b7acfa6ba8862/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/a1610ed67393005449b3c82af7362a4d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/a1610ed67393005449b3c82af7362a4d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/1f6f76b7c7ac2a88b332161617483caf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/1f6f76b7c7ac2a88b332161617483caf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/bf07da988b881e0e25fdc26d39325188/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/bf07da988b881e0e25fdc26d39325188/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/9ec01078915f678597c3da1424d79b12/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/9ec01078915f678597c3da1424d79b12/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/77695467085819a9d2b138388498bb8d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/77695467085819a9d2b138388498bb8d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/6b0f4440762ab912ba62b47c0f87de77/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/6b0f4440762ab912ba62b47c0f87de77/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/7be32f6c1b1d8774209f5a0f92e54554/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/7be32f6c1b1d8774209f5a0f92e54554/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/49c40f6fb62787e7edf78d3c635ebb9a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/49c40f6fb62787e7edf78d3c635ebb9a/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.transition:transition:1.2.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/953ef6fdc29aac04adfa6c145064de8b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/953ef6fdc29aac04adfa6c145064de8b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/397227217706b77c49a153a31c1b747f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/397227217706b77c49a153a31c1b747f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /home/r00t/.gradle/caches/transforms-2/files-2.1/e8abb4733ac8eaa4510b6a15ee7f8083/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /home/r00t/.gradle/caches/transforms-2/files-2.1/e8abb4733ac8eaa4510b6a15ee7f8083/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/ed180aeb0cd80819533ac7ec68e315a0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/ed180aeb0cd80819533ac7ec68e315a0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/df4fd5167d6906008794ebf7280f8a4a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/df4fd5167d6906008794ebf7280f8a4a/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/6a3cb39f1eac8bb44dac8accc0118699/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/6a3cb39f1eac8bb44dac8accc0118699/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/dd337597908e2b60a1046cc82702f0b6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/dd337597908e2b60a1046cc82702f0b6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/4c9fde4da009e2e614d4d720b59f72e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/4c9fde4da009e2e614d4d720b59f72e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/9a3633cdc2243cce452a9ae5c50484bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/9a3633cdc2243cce452a9ae5c50484bf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/7a6693049a4af91956425f666f4340e0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/7a6693049a4af91956425f666f4340e0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/8294af48020ab0c19bdaf4e9873a93e8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/8294af48020ab0c19bdaf4e9873a93e8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/af72c46ef135ae44c40cdcb57cc78290/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/af72c46ef135ae44c40cdcb57cc78290/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/513d64d15d4f47ef162504a33b8dd5f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/513d64d15d4f47ef162504a33b8dd5f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/d6b3e8396c029e4a309cd4db59be6342/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/d6b3e8396c029e4a309cd4db59be6342/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/b2850e4ef555142e5852905ef3905f3c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/b2850e4ef555142e5852905ef3905f3c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/a4441e225919045ab61f51880ed8bfeb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/a4441e225919045ab61f51880ed8bfeb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/fbb99332cb61a81dc5f2053b99e85dbb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/fbb99332cb61a81dc5f2053b99e85dbb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/7f52ffc6a90b38efc52f549721db300a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/7f52ffc6a90b38efc52f549721db300a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/b691b51db849a71c3e7285e0a184cb53/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/b691b51db849a71c3e7285e0a184cb53/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/0ad04eac5bf4be2b64d1f18d53bcd288/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/0ad04eac5bf4be2b64d1f18d53bcd288/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/a83d0cb30628e5716302bb9acf07316c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/a83d0cb30628e5716302bb9acf07316c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/eeb565f70a450fbf8ecec34f532cbfcc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/eeb565f70a450fbf8ecec34f532cbfcc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/7b3d1c5428e1e5fca386ac9afbf3eb4c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/7b3d1c5428e1e5fca386ac9afbf3eb4c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/ac10249a5481244acda30ed8e30853bb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/ac10249a5481244acda30ed8e30853bb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/4964ec913e93aeb5f19cb22a21608a39/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/4964ec913e93aeb5f19cb22a21608a39/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/f96e44e1e362736fe6f5db7f731ab40c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/f96e44e1e362736fe6f5db7f731ab40c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/ae0ea9b95d62e9071c36c1788d5ec6b8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/r00t/.gradle/caches/transforms-2/files-2.1/ae0ea9b95d62e9071c36c1788d5ec6b8/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/r00t/Projetos/freelancer/eufitbrasil-control-master/EuFitApp/android/app/src/debug/AndroidManifest.xml:5:22-75
